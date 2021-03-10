@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 13.09.1986  
+**Course Date:** 08.03.2021  
 **Name:** Sakine  
 **Surname:** GÖKŞİN  
 **Email:** sakinegoksin86@hotmail.com  
