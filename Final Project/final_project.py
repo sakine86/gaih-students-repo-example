@@ -7,12 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1t-yPE2xFi1CA56OdEbZNpJhm5BvtKQz-
 """
 
-
-
-yı
-
-
-
 name = str(input("Ad Soyad bilgilerinizi giriniz: "))
 print(f'Sayın {name.title()} Bilgi Yarışmasına Hoşgeldiniz')
 
